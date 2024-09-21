@@ -7,9 +7,11 @@ The aim of the application is to enable users to input a ticker on a website and
 
 ## Main issues in the current version:
 - All subreddits are weighted equally
-- There's no checks in place to make sure that all the text fetched is tickers
+- There's no checks in place to make sure that all the text analysed is actually tickers
 - The sample size is, because of the rate limit of the free reddit API, only 100 posts per call/subreddit
 - There isn't asynchronous API calls in place, so the backend takes a lot of time to fetch the data
+
+
 
 
 ## Disclaimer: This code shouldn't be used as a base for investments and Reddit is not a good source for investment advice. Always do your own analysis
