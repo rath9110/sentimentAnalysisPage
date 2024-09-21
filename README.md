@@ -4,7 +4,7 @@
 After thinking about how to earn extra money to finance buying an apartment I started wondering about the behavioral impact on stocks performance. 
 
 #### My hypothesis was: 
-  Sentiment could have an effect on either long-term or short-term performance of a stock. 
+  Sentiment could have an effect on short-term performance of a stock. 
 
 After reading various papers I came to the understanding that there isn't any correlation between current sentiment and long-term performance. However, some papers were able to find correlation between current sentiment and very short-term performance.
 
